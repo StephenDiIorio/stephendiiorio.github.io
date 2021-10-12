@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational plasma physicist currently pursuing a Ph.D. in Physics and Scientific Computing at the University of Michigan, Ann Arbor. I currently work with Dr. Alec Thomas at the Gérard Mourou Center for Ultrafast Optical Science.
+I am a computational plasma physicist currently pursuing a Ph.D. in Physics and Scientific Computing at the University of Michigan, Ann Arbor. I currently work with [Dr. Alec Thomas](https://cuos.engin.umich.edu/researchgroups/hfs/profiles/alexander-thomas/) at the [Gérard Mourou Center for Ultrafast Optical Science](https://cuos.engin.umich.edu/).
 
 Research Interests
 ---
