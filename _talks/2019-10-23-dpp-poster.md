@@ -2,7 +2,7 @@
 title: "Modeling Collisional Ionization Using a Modified Binary-Encounter-Bethe Model in the Particle-in-Cell Code OSIRIS"
 collection: talks
 type: "Poster"
-permalink: /talks/2019-10-23-poster-2
+permalink: /talks/2019-10-23-dpp-poster
 venue: "61<sup>st</sup> Annual meeting of the APS Division of Plasma Physics"
 date: 2019-10-23
 location: "Fort Lauderdale, Florida"
