@@ -2,7 +2,7 @@
 title: "Ultrafast Probing of Non-Equilibrium Plasmas Using Laser-Wakefield-Accelerated Electron Bunches"
 collection: talks
 type: "Poster"
-permalink: /talks/2018-11-07-poster-1
+permalink: /talks/2018-11-07-dpp-poster
 venue: "60<sup>th</sup> Annual meeting of the APS Division of Plasma Physics"
 date: 2018-11-07
 location: "Portland, Oregon"
