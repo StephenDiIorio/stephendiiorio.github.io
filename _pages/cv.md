@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Physics and Computer Science, Union College, Schenectady, NY, 2015
-* Ph.D in Physics and Scientific Computing, University of Michigan, Ann Arbor, MI, 2023 (expected)
+* Ph.D in Physics and Scientific Computing, University of Michigan, Ann Arbor, MI, 2024
 
 Publications
 ======
