@@ -16,14 +16,14 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
 Skills
@@ -35,3 +35,7 @@ Courses and Certifications
 ==========================
 * High Energy-Density Science Summer School, UCSD, July 29-August 10 2019.
 * CERN Accelerator School on high gradient wakefield accelerators, March 11-22 2019.
+
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
