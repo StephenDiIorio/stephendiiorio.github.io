@@ -14,7 +14,7 @@ Education
 * B.S. in Physics and Computer Science, Union College, Schenectady, NY, 2015
 * Ph.D in Physics and Scientific Computing, University of Michigan, Ann Arbor, MI, 2024
 
-Thesis
+Dissertation
 ======
   <ul>{% for post in site.publications reversed %}
     {% if post.category == 'thesis' %}
