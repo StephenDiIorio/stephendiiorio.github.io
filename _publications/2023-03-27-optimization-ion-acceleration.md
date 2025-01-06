@@ -1,6 +1,7 @@
 ---
 title: "Automated control and optimization of laser-driven ion acceleration"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-03-27-optimization-ion-acceleration
 excerpt: 'The interaction of relativistically intense lasers with opaque targets represents a highly non-linear, multi-dimensional parameter space. This limits the utility of sequential 1D scanning of experimental parameters for the optimization of secondary radiation, although to-date this has been the accepted methodology due to low data acquisition rates. High repetition-rate (HRR) lasers augmented by machine learning present a valuable opportunity for efficient source optimization. Here, an automated, HRR-compatible system produced high-fidelity parameter scans, revealing the influence of laser intensity on target pre-heating and proton generation. A closed-loop Bayesian optimization of maximum proton energy, through control of the laser wavefront and target position, produced proton beams with equivalent maximum energy to manually optimized laser pulses but using only 60% of the laser energy. This demonstration of automated optimization of laser-driven proton beams is a crucial step towards deeper physical insight and the construction of future radiation sources.'
 date: 2023-03-27
