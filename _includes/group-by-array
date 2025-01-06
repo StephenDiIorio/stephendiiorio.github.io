@@ -11,7 +11,7 @@
 {% assign group_items = __empty_array %}
 
 <!-- Map -->
-{% assign __names =  include.category | map: include.field %}
+{% assign __names =  include.collection | map: include.field %}
 
 <!-- Flatten -->
 {% assign __names =  __names | join: ',' | join: ',' | split: ',' %}
@@ -36,7 +36,7 @@
 
 <!-- Collect if contains -->
 {% assign __item = __empty_array %}
-{% for __element in include.category %}
+{% for __element in include.collection %}
 {% if __element[include.field] contains name %}
 {% assign __item = __item | push: __element %}
 {% endif %}
